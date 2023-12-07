@@ -4,7 +4,7 @@
 1. Manuel Sanchez | @manueldsanchez
 2. Stefan Mijatovic | @mijatovicstefan
 3. Jake Lane | @jakeklane
-4. Jackson Lundmark | jlundmark9
+4. Jackson Lundmark | @jlundmark9
 
 ## Description of dataset:
 The dataset that we have chosen shows the attendance rate by school district in Connecticut for the years 2019-2022. We obtained the dataset from the website https://catalog.data.gov/dataset. As well as the attendance rate per district, there is a breakdown of subcategories such as All Students, Students Experiencing Homelessness, Students With Disabilities, Free/Reduced Price Meal Eligible, English Learners, All other races, Black or African American, Hispanic/Latino of any race, White, Students Without High Needs, and Students With High Needs. Not all of the school districts contain every category as they aren’t applicable to that district. It is taken in a four year span as stated before, but broken up into individual school years such as 2019-2020, 2020-2021, and 2021-2022. In summation, the dataset has various dimensions that allow for a deeper look into the attendance for the school districts in Connecticut.
